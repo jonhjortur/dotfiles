@@ -1,0 +1,4 @@
+ 
+function syms {
+    ln -nfs /home/jonh/"$1" /home/jonh/dotfiles/"$1"
+}
